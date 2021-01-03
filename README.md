@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=adityatelange&show_icons=true&hide_title=true&bg_color=00000000&text_color=58a6ff&hide_border=true">&nbsp;&nbsp;&nbsp;&nbsp;<img height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatelange&layout=compact&langs_count=10&bg_color=00000000&text_color=58a6ff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityatelange&show_icons=true&hide_title=true&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true">&nbsp;&nbsp;&nbsp;&nbsp;<img height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatelange&layout=compact&langs_count=10&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true" />
     
   <a href="https://gitlab.com/adityatelange"><img src="https://img.shields.io/badge/Gitlab--_.svg?style=social&logo=gitlab" alt="Gitlab@adityatelange"></a>
   <a href="https://twitter.com/adityatelange"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@adityatelange"></a>
