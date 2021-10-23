@@ -8,8 +8,8 @@
 </p>
 
 
-<a href="https://twitter.com/adityatelange"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@adityatelange"></a>
-<a href="https://www.linkedin.com/in/adityatelange"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@adityatelange"></a>
-<a href="https://hackthebox.eu/profile/332061"><img src="https://img.shields.io/badge/HackTheBox--_.svg?style=social&logo=hackthebox" alt="hackthebox@v01dspac3"></a>
-<a href="https://gitlab.com/adityatelange"><img src="https://img.shields.io/badge/Gitlab--_.svg?style=social&logo=gitlab" alt="Gitlab@adityatelange"></a>
-<a href="https://adityatelange.in/contactme"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social&logo=mail.ru" alt="contactme"></a>
+<a href="https://bit.ly/2ZfPIUE"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@adityatelange"></a>
+<a href="https://bit.ly/3junz3J"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@adityatelange"></a>
+<a href="https://bit.ly/3npbnCi"><img src="https://img.shields.io/badge/HackTheBox--_.svg?style=social&logo=hackthebox" alt="hackthebox@v01dspac3"></a>
+<a href="https://bit.ly/3Epa3GH"><img src="https://img.shields.io/badge/Gitlab--_.svg?style=social&logo=gitlab" alt="Gitlab@adityatelange"></a>
+<a href="https://bit.ly/3m7DVRx"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social&logo=mail.ru" alt="contactme"></a>
