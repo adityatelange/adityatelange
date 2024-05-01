@@ -17,6 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.8.1
         with:
           feed_list: "https://adityatelange.in/index.xml"
-          template: $newline - [$title]($url?ref=gh)
+          template: $newline- [$title]($url?ref=gh)$newline
           committer_username: github-actions[bot]
           committer_email: 41898282+github-actions[bot]@users.noreply.github.com
