@@ -1,0 +1,56 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "owner",
+    "name": "Aditya Telange",
+    "email": "contact@adityatelange.in",
+    "description": "FOSS Enthusiast",
+    "webpageUrl": {
+      "url": "https://adityatelange.in"
+    }
+  },
+  "projects": [
+    {
+      "guid": "hugo-PaperMod",
+      "name": "hugo-PaperMod",
+      "description": "A fast, clean, responsive Hugo theme.",
+      "webpageUrl": {
+        "url": "https://github.com/adityatelange/hugo-PaperMod"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/adityatelange/hugo-PaperMod"
+      },
+      "licenses": [
+        "MIT"
+      ],
+      "tags": [
+        "developer-tools"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "github-sponsors",
+        "type": "other",
+        "address": "https://github.com/sponsors/adityatelange"
+      }
+    ],
+    "plans": [
+      {
+        "guid": "github-sponsors",
+        "status": "active",
+        "name": "Github Sponsors",
+        "amount": 3,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": [
+          "github-sponsors"
+        ]
+      }
+    ],
+    "history": [
+    ]
+  }
+}
