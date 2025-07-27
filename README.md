@@ -6,3 +6,10 @@
 - [HackTheBox - Certified](https://adityatelange.in/writeups/hackthebox/certified/?ref=gh)
 - [State of VMWare Workstation &lpar;Pro?&rpar; on Linux](https://adityatelange.in/blog/state-of-vmware-workstation-linux/?ref=gh)
 - [Android App Security Testing Lab with MobSleuth](https://adityatelange.in/blog/mobsleuth-lab/?ref=gh)<!-- BLOG-POST-LIST:END -->
+
+---
+
+📇 **Connect with me**
+
+- [Twitter/X](https://x.com/adityatelange)
+- [LinkedIn](https://www.linkedin.com/in/adityatelange)
