@@ -14,9 +14,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in adityatelange.in posts
-        uses: gautamkrishnar/blog-post-workflow@1.8.1
+        uses: gautamkrishnar/blog-post-workflow@1.9.3
         with:
           feed_list: "https://adityatelange.in/index.xml"
+          max_post_count: 3
           template: $newline- [$title]($url?ref=gh)
           committer_username: github-actions[bot]
           committer_email: 41898282+github-actions[bot]@users.noreply.github.com
