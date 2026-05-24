@@ -35,5 +35,5 @@ I am a Cyber Security Consultant and Developer with interests in offensive secur
 
 [![](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adityatelange.in)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/adityatelange)
-[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adityatelange)
 [![](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](http://mastodon.social/@adityatelange)
+[![](https://img.shields.io/badge/X%2fTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adityatelange)
