@@ -19,6 +19,7 @@ I am a Cyber Security Consultant and Developer with interests in offensive secur
 - [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, and responsive Hugo theme for blogs, documentation sites, and personal websites.
 - [evil-winrm-py](https://github.com/adityatelange/evil-winrm-py) - An interactive WinRM shell focused on faster remote Windows operations.
 - [frida-ui](https://github.com/adityatelange/frida-ui) - A browser-based interface for working with Frida devices, processes, and scripts.
+- [quickshare-cli-py](https://github.com/adityatelange/quickshare-cli-py) - A minimal, dependency-light Python implementation of Quick Share (formerly Nearby Share) for Linux.
 - [bhhb](https://github.com/adityatelange/bhhb) - A Burp HTTP history browser for traffic exported from Burp Suite Community Edition.
 - [MobSleuth](https://github.com/adityatelange/MobSleuth) - Scripts for setting up an Android application security lab.
 - [hugo-index](https://github.com/adityatelange/hugo-index) - A minimal Hugo theme inspired by GTFOBins for searchable notes and references.
